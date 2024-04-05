@@ -1,0 +1,5 @@
+#!/usr/bin/zsh
+
+st -e zsh -c 'neofetch; systemd-analyze; exec $SHELL'
+
+
